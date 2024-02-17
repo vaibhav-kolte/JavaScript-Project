@@ -1,0 +1,3 @@
+ctrl + / : comment selected line if alerdy selected then uncommrnt line
+
+alt + z : wrap line
